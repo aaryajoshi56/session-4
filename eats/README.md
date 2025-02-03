@@ -6,13 +6,12 @@ Your program should:
 2. Display the menu for the selected restaurant
 3. Let users order multiple items with quantities
 4. Calculate the subtotal for all ordered items
-5. Add appropriate delivery fee based on distance
-6. Calculate tax (8% of subtotal)
-7. Calculate final total and split bill among specified number of people
+5. Calculate tax (8% of subtotal)
+6. Calculate final total and split bill among specified number of people
 
 ## Getting Started
 
-1. Download the starter code provided (food_delivery_starter.py)
+1. Download the starter code provided (hult_eats_start.py)
 2. Read through the existing code and comments
 3. Look for `TODO` comments that indicate where you need to add code
 4. Test your program after implementing each section
@@ -34,7 +33,6 @@ Your program should:
 
 ### Part 3: Delivery and Total Calculation
 
-- Implement delivery fee selection
 - Calculate tax
 - Compute final total
 - Implement bill splitting
@@ -44,9 +42,8 @@ Your program should:
 Test your program with these scenarios:
 
 1. Basic Order:
-    - Select "burger_place"
+    - Input "Five Guys"
     - Order: 2 burgers, 1 fries
-    - Delivery: 0-2km
     - Split between 2 people
 2. Invalid Inputs:
     - Try ordering an item not on the menu

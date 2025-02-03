@@ -11,4 +11,13 @@ students = [{"name" : "Hermione",
   "house" : "Slytherin",
   "patronus" : None},]
 
-print(students[2]["patronus"])
+
+
+"""a = True
+while a is True:
+    try:
+        n = int(input("What's n? "))
+        if n > 0:
+            a = False
+    except ValueError:
+        print("Invalid input, try again.")"""
