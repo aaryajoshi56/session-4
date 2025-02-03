@@ -13,6 +13,12 @@ students = [{"name" : "Hermione",
 
 
 
+
+
+
+
+
+
 """a = True
 while a is True:
     try:
@@ -21,3 +27,5 @@ while a is True:
             a = False
     except ValueError:
         print("Invalid input, try again.")"""
+# except Exception as e: 
+#        print(f"Invalid input ({type(e).__name__}): {e}. Try again.")

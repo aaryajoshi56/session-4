@@ -28,8 +28,8 @@ def display_menu(restaurant):
     
 
 def calculate_order():
-    """Calculate total cost including delivery and split bill"""
-    
+    """Calculate total cost including tax and split bill"""
+
 
 def main():
     """Main program loop to allow multiple orders"""
